@@ -65,7 +65,7 @@ We welcome your contributions to the project! Please read the [CONTRIBUTING.md](
 Special thanks to [@beyondHJM](https://github.com/beyondHJM) for assisting with the design and configuration of the Grafana panels.
 
 ## Paper
-You can refer to our paper published on (arxiv)[https://arxiv.org/abs/2409.05093] or (whiley)[https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.3417].
+You can refer to our paper published on [arxiv](https://arxiv.org/abs/2409.05093) or [whiley](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.3417).
 ```latex
 @article{wu2024cloudnativesim,
   title={CloudNativeSim: a toolkit for modeling and simulation of cloud-native applications},
