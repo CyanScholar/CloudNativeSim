@@ -7,7 +7,7 @@
 [![GPL licensed](https://img.shields.io/badge/license-GPL-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 [![Progress Tracker](https://img.shields.io/badge/Progess-track-green)](https://github.com/users/CyanStarNight/projects/1)
 [![commit](https://img.shields.io/github/last-commit/CyanStarNight/CloudNativeSim?color=blue)](https://github.com/CyanStarNight/CloudNativeSim/commits/master)
-[![PR](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/CyanStarNight/CloudNativeSim/pulls)
+[![arXiv](https://img.shields.io/badge/arXiv-2409.05093-b31b1b.svg)](https://arxiv.org/abs/2409.05093)
 ![version](https://img.shields.io/badge/version-1.0-blue)
 [![GitHub Repo stars](https://img.shields.io/github/stars/CyanStarNight/CloudNativeSim)](https://github.com/CyanStarNight/CloudNativeSim)
 
