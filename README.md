@@ -64,4 +64,14 @@ The visualization results are shown below:
 We welcome your contributions to the project! Please read the [CONTRIBUTING.md](./CONTRIBUTING.md)  before you start. The guide includes information on various ways to contribute, such as requesting features, reporting issues, fixing bugs, or adding new features.
 Special thanks to [@beyondHJM](https://github.com/beyondHJM) for assisting with the design and configuration of the Grafana panels.
 
-## Citation
+## Paper
+You can refer to our paper published on (arxiv)[https://arxiv.org/abs/2409.05093] or (whiley)[https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.3417].
+```latex
+@article{wu2024cloudnativesim,
+  title={CloudNativeSim: a toolkit for modeling and simulation of cloud-native applications},
+  author={Wu, Jingfeng and Xu, Minxian and He, Yiyuan and Ye, Kejiang and Xu, Chengzhong},
+  journal={Software: Practice and experience},
+  year={2024},
+  doi={10.1002/spe.3417}
+}
+```
