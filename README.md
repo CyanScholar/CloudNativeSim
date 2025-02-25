@@ -66,7 +66,7 @@ Special thanks to [@beyondHJM](https://github.com/beyondHJM) for assisting with 
 ## Paper
 You can refer to our paper published on [arxiv](https://arxiv.org/abs/2409.05093) or [whiley](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.3417).
 ```latex
-@article{wu2024cloudnativesim,
+@article{wu2025cloudnativesim,
   title={Cloudnativesim: A Toolkit for Modeling and Simulation of Cloud-Native Applications},
   author={Wu, Jingfeng and Xu, Minxian and He, Yiyuan and Ye, Kejiang and Xu, Chengzhong},
   journal={Software: Practice and experience},
