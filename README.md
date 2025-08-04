@@ -13,6 +13,7 @@
 </div>
 
 ## About
+Note: As a derivative of the [CloudSim project](https://github.com/Cloudslab/cloudsim) (the most popular cloud computing simulator), CloudNativeSim will soon become part of CloudSim.
 
 CloudNativeSim is a toolkit for modeling and simulation of cloud-native applications. It employs a multi-layered architecture, allowing for high extensibility and customization. Below is an overview of the CloudNativeSim architecture:
 <p align="center">
